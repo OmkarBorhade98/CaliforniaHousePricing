@@ -1,0 +1,12 @@
+name: california_housing_env
+channels:
+  - defaults
+dependencies:
+  - python
+  - scikit-learn=1.1
+  - numpy
+  - pandas
+  - seaborn
+  - jupyter
+  - ipykernel
+  - flask
